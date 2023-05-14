@@ -4,7 +4,7 @@ This is the home of the additional resources for the Video Flashcards series on 
 
 ## General Philosophy
 
-I created these videos at the request of a colleague as a way to quickly squeeze in some arithmetic practice for his classes. Although this is a timed practice, it's not a race. This isn't about going as fast as possible. Instead, it's about going through at a comfortable pace and giving the practice and repetition required to build up additional skill and confidence with basic arithmetic.
+I created these videos at the request of a colleague as a way to quickly squeeze in some arithmetic practice for their classes. Although this is a timed practice, it's not a race. The goal is not to go as fast as possible (though trying to get faster can be a fun challenge!). Instead, it's about going through at a comfortable pace and giving the practice and repetition required to build up additional skill and confidence with basic computations.
 
 My intention is to build some short teaching videos for each type of flash card in order to elaborate a bit on the specific skills and ideas that each video is hoping to develop.
 
