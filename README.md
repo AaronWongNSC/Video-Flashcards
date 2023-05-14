@@ -10,8 +10,8 @@ My intention is to build some short teaching videos for each type of flash card 
 
 ## Videos
 
-| Series                                  |                      |         |         |         |         |         |
-| :-------------------------------------- | :------------------: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| One Digit Addition                      | Lesson (coming soon) |         |         |         |         |         |
-| One Digit Addition (Answers at end)     |                      | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
-| One Digit Addition (Answers after each) |                      | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
+| Series             |                                 |         |         |         |         |         |
+| :------------------| :------------------:            | :-----: | :-----: | :-----: | :-----: | :-----: |
+| One Digit Addition | Lesson (coming soon)            |         |         |         |         |         |
+|                    | Flashcards (Answers at end)     | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
+|                    | Flashcards (Answers after each) | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
