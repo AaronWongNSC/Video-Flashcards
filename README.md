@@ -13,5 +13,5 @@ My intention is to build some short teaching videos for each type of flash card 
 | Series             |                                 |         |         |         |         |         |
 | :------------------| :------------------:            | :-----: | :-----: | :-----: | :-----: | :-----: |
 | One Digit Addition | Lesson (coming soon)            |         |         |         |         |         |
-|                    | Flashcards (Answers at end)     | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
+|                    | Flashcards (Answers at end)     | [Video 1](https://youtu.be/oKdHvDeuJKk) | [Video 2](https://youtu.be/fRqpeoEKw3U) | [Video 3](https://youtu.be/8KuUQJ_IVmY) | [Video 4](https://youtu.be/EG6S7ccq8Z4) | [Video 5](https://youtu.be/lHqahuxgDe4) | 
 |                    | Flashcards (Answers after each) | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
