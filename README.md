@@ -2,6 +2,8 @@
 
 This is the home of the additional resources for the Video Flashcards series on YouTube.
 
+[Video Flashcard Playlist](https://www.youtube.com/playlist?list=PLQTQDG8nyMPioEKkgXUoqpb5p2X8RyolK)
+
 ## General Philosophy
 
 I created these videos at the request of a colleague as a way to quickly squeeze in some arithmetic practice for their classes. Although this is a timed practice, it's not a race. The goal is not to go as fast as possible*. Instead, it's about going through at a steady pace to get the practice and repetitions required to build up skill and confidence with basic computations.
