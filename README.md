@@ -44,6 +44,14 @@ My intention is to build some short teaching videos for each type of flash card 
 | *Lessons (coming soon)* |       |         |         |         |         |
 | *Flashcards (Answers at end)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
 | *Flashcards (Answers after each)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
+| **Small by One Division, No Remainder** |     |         |         |         |         |        
+| *Lessons (coming soon)* |       |         |         |         |         |
+| *Flashcards (Answers at end)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
+| *Flashcards (Answers after each)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
+| **Small by One Division, With Remainders** |     |         |         |         |         |        
+| *Lessons (coming soon)* |       |         |         |         |         |
+| *Flashcards (Answers at end)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
+| *Flashcards (Answers after each)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
 | **Two by One Division, No Remainder** |     |         |         |         |         |        
 | *Lessons (coming soon)* |       |         |         |         |         |
 | *Flashcards (Answers at end)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
