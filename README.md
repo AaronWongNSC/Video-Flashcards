@@ -26,7 +26,7 @@ My intention is to build some short teaching videos for each type of flash card 
 | *Flashcards (Answers after each)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
 | **Two-Digit Addition** |     |         |         |         |         |        
 | *Lessons (coming soon)* |       |         |         |         |         |
-| *Flashcards (Answers at end)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
+| *Flashcards (Answers at end)* | [Video 1](https://youtu.be/yKGX_xGAEvo) | [Video 2](https://youtu.be/PP44zY949Zk) | [Video 3](https://youtu.be/O4J55k5n_L4) | [Video 4](https://youtu.be/enlAh4BX6bo) | [Video 5](https://youtu.be/dSSht0nwt3M) | 
 | *Flashcards (Answers after each)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
 | **Small Minus One Subtraction** |     |         |         |         |         |        
 | *Lessons (coming soon)* |       |         |         |         |         |
