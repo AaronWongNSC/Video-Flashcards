@@ -16,10 +16,15 @@ My intention is to build some short teaching videos for each type of flash card 
 
 | Series             |         |         |         |         |         |
 | :------------------| :-----: | :-----: | :-----: | :-----: | :-----: |
-| **One-Digit Addition** |     |         |         |         |         |        
+| **One-Digit Addition** |     |         |         |         |         |
 | *Lessons (coming soon)* |       |         |         |         |         |
-| *Flashcards (Answers at end)* | [Video 1](https://youtu.be/oKdHvDeuJKk) | [Video 2](https://youtu.be/fRqpeoEKw3U) | [Video 3](https://youtu.be/8KuUQJ_IVmY) | [Video 4](https://youtu.be/EG6S7ccq8Z4) | [Video 5](https://youtu.be/lHqahuxgDe4) | 
-| *Flashcards (Answers after each)* | [Video 1](https://youtu.be/7G_-LAm8GHk) | [Video 2](https://youtu.be/RM1eKIil0-w) | [Video 3](https://youtu.be/XjNJimrvAm8) | [Video 4](https://youtu.be/FqibTFx30YU) | [Video 5](https://youtu.be/FY6HTraujHA) | 
+| Counting and the Addition Table |       |         |         |         |         |
+| Number Bonds/Number Pairs |       |         |         |         |         |
+| Automaticity |       |         |         |         |         |
+| *Flashcards* |       |         |         |         |         |
+| Using the Video Flashcards |       |         |         |         |         |
+| Answers at end | [Video 1](https://youtu.be/oKdHvDeuJKk) | [Video 2](https://youtu.be/fRqpeoEKw3U) | [Video 3](https://youtu.be/8KuUQJ_IVmY) | [Video 4](https://youtu.be/EG6S7ccq8Z4) | [Video 5](https://youtu.be/lHqahuxgDe4) | 
+| Answers after each | [Video 1](https://youtu.be/7G_-LAm8GHk) | [Video 2](https://youtu.be/RM1eKIil0-w) | [Video 3](https://youtu.be/XjNJimrvAm8) | [Video 4](https://youtu.be/FqibTFx30YU) | [Video 5](https://youtu.be/FY6HTraujHA) | 
 | **Two Plus One Addition** |     |         |         |         |         |        
 | *Lessons (coming soon)* |       |         |         |         |         |
 | *Flashcards (Answers at end)* | [Video 1](https://youtu.be/j2nlTpneoDM) | [Video 2](https://youtu.be/ulab64RkMy0) | [Video 3](https://youtu.be/q4WPnafjE8s) | [Video 4](https://youtu.be/4IbUpyP9JAc) | [Video 5](https://youtu.be/_lpfoT4jvqU) | 
