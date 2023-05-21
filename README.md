@@ -18,9 +18,8 @@ My intention is to build some short teaching videos for each type of flash card 
 | :------------------| :-----: | :-----: | :-----: | :-----: | :-----: |
 | **One-Digit Addition** |     |         |         |         |         |
 | *Lessons (coming soon)* |       |         |         |         |         |
-| Finger Counting and the Addition Table |       |         |         |         |         |
-| Number Bonds/Number Pairs |       |         |         |         |         |
-| Representing Integers |       |         |         |         |         |
+| Representing Integers (Finger Counting/Base-10/Patterns) |       |         |         |         |         |
+| The Addition Table and Number Bonds  |       |         |         |         |         |
 | Automaticity |       |         |         |         |         |
 | *Flashcards* |       |         |         |         |         |
 | Using the Video Flashcards |       |         |         |         |         |
