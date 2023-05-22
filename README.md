@@ -16,63 +16,77 @@ My intention is to build some short teaching videos for each type of flash card 
 
 | Series             |         |         |         |         |         |
 | :------------------| :-----: | :-----: | :-----: | :-----: | :-----: |
+|  |  |  |  |  |  |
 | **One-Digit Addition** |     |         |         |         |         |
-| *Lessons (coming soon)* |       |         |         |         |         |
-| Representing Integers (Finger Counting/Base-10/Patterns) |       |         |         |         |         |
+| Representing Integers (Finger Counting/Base-10/Patterns/Number Line) |       |         |         |         |         |
 | The Addition Table and Number Bonds  |       |         |         |         |         |
 | Automaticity |       |         |         |         |         |
 | *Flashcards* |       |         |         |         |         |
 | Using the Video Flashcards |       |         |         |         |         |
 | Answers at end | [Video 1](https://youtu.be/oKdHvDeuJKk) | [Video 2](https://youtu.be/fRqpeoEKw3U) | [Video 3](https://youtu.be/8KuUQJ_IVmY) | [Video 4](https://youtu.be/EG6S7ccq8Z4) | [Video 5](https://youtu.be/lHqahuxgDe4) | 
 | Answers after each | [Video 1](https://youtu.be/7G_-LAm8GHk) | [Video 2](https://youtu.be/RM1eKIil0-w) | [Video 3](https://youtu.be/XjNJimrvAm8) | [Video 4](https://youtu.be/FqibTFx30YU) | [Video 5](https://youtu.be/FY6HTraujHA) | 
+|  |  |  |  |  |  |
 | **Two Plus One Addition** |     |         |         |         |         |        
-| *Lessons (coming soon)* |       |         |         |         |         |
+| Not Carrying the One |  |  |  |  |  |
 | *Flashcards (Answers at end)* | [Video 1](https://youtu.be/j2nlTpneoDM) | [Video 2](https://youtu.be/ulab64RkMy0) | [Video 3](https://youtu.be/q4WPnafjE8s) | [Video 4](https://youtu.be/4IbUpyP9JAc) | [Video 5](https://youtu.be/_lpfoT4jvqU) | 
 | *Flashcards (Answers after each)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
+|  |  |  |  |  |  |
 | **Two-Digit Addition** |     |         |         |         |         |        
-| *Lessons (coming soon)* |       |         |         |         |         |
+| Two Step Addition |       |         |         |         |         |
+| Other Methods |       |         |         |         |         |
 | *Flashcards (Answers at end)* | [Video 1](https://youtu.be/yKGX_xGAEvo) | [Video 2](https://youtu.be/PP44zY949Zk) | [Video 3](https://youtu.be/O4J55k5n_L4) | [Video 4](https://youtu.be/enlAh4BX6bo) | [Video 5](https://youtu.be/dSSht0nwt3M) | 
 | *Flashcards (Answers after each)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
+|  |  |  |  |  |  |
 | **Small Minus One Subtraction** |     |         |         |         |         |        
-| *Lessons (coming soon)* |       |         |         |         |         |
-| *Flashcards (Answers at end)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
+| Inverse Problems |       |         |         |         |         |
+| *Flashcards (Answers at end)* | [Video 1](https://youtu.be/eIdbtxaoh7I) | [Video 2](https://youtu.be/FTfCbwPGkVc) | [Video 3](https://youtu.be/4owNwvMFzBY) | [Video 4](https://youtu.be/NSUg7WZSWz8) | [Video 5](https://youtu.be/g8mDdItmKCM) | 
 | *Flashcards (Answers after each)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
+|  |  |  |  |  |  |
 | **Two Minus One Subtraction** |     |         |         |         |         |        
-| *Lessons (coming soon)* |       |         |         |         |         |
+| Stop Borrowing (Number Line) |       |         |         |         |         |
 | *Flashcards (Answers at end)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
 | *Flashcards (Answers after each)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
+|  |  |  |  |  |  |
 | **One-Digit Multiplication** |     |         |         |         |         |        
 | *Lessons (coming soon)* |       |         |         |         |         |
 | *Flashcards (Answers at end)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
 | *Flashcards (Answers after each)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
+|  |  |  |  |  |  |
 | **Two Times One Multiplication** |     |         |         |         |         |        
 | *Lessons (coming soon)* |       |         |         |         |         |
 | *Flashcards (Answers at end)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
 | *Flashcards (Answers after each)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
+|  |  |  |  |  |  |
 | **Small by One Division, No Remainder** |     |         |         |         |         |        
 | *Lessons (coming soon)* |       |         |         |         |         |
 | *Flashcards (Answers at end)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
 | *Flashcards (Answers after each)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
+|  |  |  |  |  |  |
 | **Small by One Division, With Remainders** |     |         |         |         |         |        
 | *Lessons (coming soon)* |       |         |         |         |         |
 | *Flashcards (Answers at end)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
 | *Flashcards (Answers after each)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
+|  |  |  |  |  |  |
 | **Two by One Division, No Remainder** |     |         |         |         |         |        
 | *Lessons (coming soon)* |       |         |         |         |         |
 | *Flashcards (Answers at end)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
 | *Flashcards (Answers after each)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
+|  |  |  |  |  |  |
 | **Two by One Division, With Remainders** |     |         |         |         |         |        
 | *Lessons (coming soon)* |       |         |         |         |         |
 | *Flashcards (Answers at end)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
 | *Flashcards (Answers after each)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
+|  |  |  |  |  |  |
 | **Perfect Squares to 15** |     |         |         |         |         |        
 | *Lessons (coming soon)* |       |         |         |         |         |
 | *Flashcards (Answers at end)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
 | *Flashcards (Answers after each)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
+|  |  |  |  |  |  |
 | **Perfect Square Roots up to 15** |     |         |         |         |         |        
 | *Lessons (coming soon)* |       |         |         |         |         |
 | *Flashcards (Answers at end)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
 | *Flashcards (Answers after each)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
+|  |  |  |  |  |  |
 | **Reducing Fractions** |     |         |         |         |         |        
 | *Lessons (coming soon)* |       |         |         |         |         |
 | *Flashcards (Answers at end)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
