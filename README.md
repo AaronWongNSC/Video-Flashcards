@@ -19,8 +19,10 @@ My intention is to build some short teaching videos for each type of flash card 
 |  |  |  |  |  |  |
 | **One-Digit Addition** |  |  |  |  |  |
 | Why is Mental Arithmetic Hard? |  |  |  |  |  |
-| Addition as Combining Objects (Number Bonds) |  |  |  |  |  |
-| Finger Counting and Automaticity |  |  |  |  |  |
+| Addition as Combining Objects |  |  |  |  |  |
+| Number Bonds and Regrouping |  |  |  |  |  |
+| Bonus Video: Combining Like Terms |  |  |  |  |  |
+| Automaticity |  |  |  |  |  |
 | *Flashcards* |  |  |  |  |  |
 | Using the Video Flashcards |  |  |  |  |  |
 | Answers at end | [Video 1](https://youtu.be/oKdHvDeuJKk) | [Video 2](https://youtu.be/fRqpeoEKw3U) | [Video 3](https://youtu.be/8KuUQJ_IVmY) | [Video 4](https://youtu.be/EG6S7ccq8Z4) | [Video 5](https://youtu.be/lHqahuxgDe4) | 
