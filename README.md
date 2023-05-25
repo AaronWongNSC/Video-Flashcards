@@ -8,7 +8,7 @@ This is the home of the additional resources for the Video Flashcards series on 
 
 I created these videos at the request of a colleague as a way to quickly squeeze in some arithmetic practice for their classes. Although this is a timed practice, it's not a race. The goal is not to go as fast as possible*. Instead, it's about going through at a steady pace to get the practice and repetitions required to build up skill and confidence with basic computations.
 
-(* This isn't to say that going fast can't be a fun challenge! But going for pure speed is not the *goal* of the videos. If you want the challenge, watch the videos at higher speeds.)
+(* This isn't to say that going fast can't be a fun challenge! But just trying to go as fast as possible is not the *goal* of the videos. If you want the challenge, watch the videos at higher speeds.)
 
 My intention is to build some short teaching videos for each type of flash card in order to elaborate a bit on the specific skills and ideas that each video is hoping to develop.
 
