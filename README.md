@@ -19,7 +19,7 @@ My intention is to build some short teaching videos for each type of flash card 
 |  |  |  |  |  |  |
 | **One-Digit Addition** |  |  |  |  |  |
 | Why is Mental Arithmetic Hard? |  |  |  |  |  |
-| Addition as Combining Objects |  |  |  |  |  |
+| Addition as Combining Objects and Finger Counting |  |  |  |  |  |
 | Number Bonds and Regrouping |  |  |  |  |  |
 | Bonus Video: Combining Like Terms |  |  |  |  |  |
 | Automaticity |  |  |  |  |  |
