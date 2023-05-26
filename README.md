@@ -20,7 +20,6 @@ My intention is to build some short teaching videos for each type of flash card 
 | **One-Digit Addition** |  |  |  |  |  |
 | Why is Mental Arithmetic Hard? |  |  |  |  |  |
 | Addition as Combining Objects and Finger Counting |  |  |  |  |  |
-| Number Bonds and Regrouping |  |  |  |  |  |
 | Bonus Video: Combining Like Terms |  |  |  |  |  |
 | Automaticity |  |  |  |  |  |
 | *Flashcards* |  |  |  |  |  |
@@ -29,6 +28,7 @@ My intention is to build some short teaching videos for each type of flash card 
 | Answers after each | [Video 1](https://youtu.be/7G_-LAm8GHk) | [Video 2](https://youtu.be/RM1eKIil0-w) | [Video 3](https://youtu.be/XjNJimrvAm8) | [Video 4](https://youtu.be/FqibTFx30YU) | [Video 5](https://youtu.be/FY6HTraujHA) | 
 |  |  |  |  |  |  |
 | **Two Plus One Addition** |  |  |  |  |  |
+| Number Bonds and Regrouping |  |  |  |  |  |
 | Stop Carrying the One (Base-10) |  |  |  |  |  |
 | *Flashcards (Answers at end)* | [Video 1](https://youtu.be/j2nlTpneoDM) | [Video 2](https://youtu.be/ulab64RkMy0) | [Video 3](https://youtu.be/q4WPnafjE8s) | [Video 4](https://youtu.be/4IbUpyP9JAc) | [Video 5](https://youtu.be/_lpfoT4jvqU) | 
 | *Flashcards (Answers after each)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
