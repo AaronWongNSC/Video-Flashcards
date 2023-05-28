@@ -29,7 +29,7 @@ My intention is to build some short teaching videos for each type of flash card 
 |  |  |  |  |  |  |
 | **Two Plus One Addition** |  |  |  |  |  |
 | Number Bonds and Regrouping |  |  |  |  |  |
-| Stop Carrying the One (Base-10) |  |  |  |  |  |
+| Carrying the One (Base-10) |  |  |  |  |  |
 | Bonus Video: Calculations in Other Bases |  |  |  |  |  |
 | *Flashcards (Answers at end)* | [Video 1](https://youtu.be/j2nlTpneoDM) | [Video 2](https://youtu.be/ulab64RkMy0) | [Video 3](https://youtu.be/q4WPnafjE8s) | [Video 4](https://youtu.be/4IbUpyP9JAc) | [Video 5](https://youtu.be/_lpfoT4jvqU) | 
 | *Flashcards (Answers after each)* | Video 1 | Video 2 | Video 3 | Video 4 | Video 5 | 
